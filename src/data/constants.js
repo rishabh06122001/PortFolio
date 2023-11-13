@@ -1,5 +1,5 @@
 export const Bio = {
-  name: "Rishabh Kumar Tiwari",
+  name: "Rishabh",
   roles: [
     "Web Developer",
     "Programmer",
@@ -8,7 +8,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/rishabh06122001",
   resume:
-    "https://drive.google.com/file/d/1JxSrLDisgFN_KUIettLLhXH_2J0tcDi-/view?usp=drive_link",
+    "https://drive.google.com/file/d/1Fwkwho8TGiGeYZOT3_vepIoUpTQL69dX/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/rishabh-tiwari-588570208/",
   twitter: "",
   insta: "",
